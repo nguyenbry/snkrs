@@ -1,5 +1,9 @@
 node_modules/
 scriptvscode
-script/bin/
-script/lib/
-script/pyvenv.cfg
+venv/bin/
+venv/lib/
+venv/Lib/
+venv/pyvenv.cfg
+venv/Include/
+venv/Scripts/
+venv/include/
